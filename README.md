@@ -1,0 +1,1 @@
+This is an advanced version of my previous AI INTERVIEW TRAINER project. Here it analyzes your resume and identifies your job role, skills, and experience and then generates a comprehensive set of interview questions tailored to your position. It is highly accurate than the previous one.
